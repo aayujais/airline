@@ -1,0 +1,2 @@
+# airline
+Airline reservation System is a computerized system used to store and retrieve information and conduct transactions related to air travel. The project is aimed at exposing the relevance and importance of Airline 2 Reservation Systems. It is projected towards enhancing the relationship between customers and airline agencies through the use of ARSs.This project is developed in PHP language and MySql Database. This AIRLINE RESERVATION MANAGEMENT SYSTEM should be able to manage all the reservation related functions. 
